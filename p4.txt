@@ -1,2 +1,0 @@
-to understand undo changes--git reset
-p4.txt file
